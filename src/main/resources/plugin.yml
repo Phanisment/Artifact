@@ -1,0 +1,8 @@
+name: Artifact
+version: ${project.version}
+author: Phanisment
+description: I like Genshin!
+main: io.phanisment.artifact.ArtifactPlugin
+api-version: 1.20
+depend:
+- NBTAPI
